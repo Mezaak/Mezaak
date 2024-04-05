@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Mezaak&color=blue)
 <h1 align="center">Hi 👋, I'm Boran Akkaya</h1>
 <h3 align="center">A Front-End Developer from Turkey</h3>
 
