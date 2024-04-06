@@ -1,32 +1,42 @@
-![](https://komarev.com/ghpvc/?username=Mezaak&color=blue)
-<h1 align="center">Hi 👋, I'm Boran Akkaya</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=Mezaak&color=blue" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Boran+Akkaya!;" />
+</h1>
+
 <h3 align="center">A Front-End Developer from Turkey</h3>
 
 [<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezaak" alt="mezaak" /></a> </p>](url)
 
-- I'm currently working on **Node.js**
+<div align="center">
+ 🧠 I'm currently working on **Node** <br>
 
-- 🌱 I’m currently learning **Tailwind**
+🌱 I’m currently learning **Tailwind**
 
-- 👨‍💻 All of my projects are available at here
+ 👨‍💻 All of my projects are available at here
 
-- 💬 Ask me about **Analytical Thinking**
+ 💬 Ask me about **Analytical Thinking**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+<br>
+<br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/boran-akkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boran akkaya" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <p align="left"> <a href="https://github.com/Mezaak"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,yarn,vite,html,css,js,express,nodejs,tailwind,bootstrap,ps,react,mongodb,ts,"> </a> </p>
 
-## My Stats:
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Mezaak&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## Activity On GitHub
+<h2 align="center">Activity On GitHub</h2>
 
 <p align="center">
   <a href="https://github.com/Mezaak">      
@@ -34,8 +44,14 @@
 </a> 
 </p>
 
+<div align="center">
+<h2>🐍 My Contributions 🐍</h2>
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br/><br/><br/>
+</div>
