@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/boran-akkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boran akkaya" height="30" width="40" /></a>
 </p>
 
-<br>
+
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
