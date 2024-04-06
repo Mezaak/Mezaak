@@ -19,7 +19,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,yarn,vite,html,css,js,express,nodejs,tailwind,bootstrap,react,mongodb,ts,"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,yarn,vite,html,css,js,express,nodejs,tailwind,bootstrap,ps,react,mongodb,ts,"> </a> </p>
 
 ## My Stats:
 <p align="center">
