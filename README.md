@@ -30,8 +30,10 @@
 <br>
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<p align="left"> <a href="https://github.com/Mezaak"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,yarn,vite,html,css,js,express,nodejs,tailwind,bootstrap,ps,react,mongodb,ts,"> </a> </p>
+<div align="center">
+<p> <a href="https://github.com/Mezaak"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,yarn,vite,html,css,js,express,nodejs,tailwind"> </a> </p>
+    <p> <a href="https://github.com/Mezaak"><img src="https://skillicons.dev/icons?i=,bootstrap,ps,react,mongodb,ts,"> </a> </p>
+</div>   
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
