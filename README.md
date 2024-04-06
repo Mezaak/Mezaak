@@ -34,3 +34,5 @@
 </a> 
 </p>
 
+![snake gif](https://github.com/Mezaak/Mezaak/blob/output/github-contribution-grid-snake.gif)
+
