@@ -6,9 +6,10 @@
 
 <h3 align="center">A Front-End Developer from Turkey</h3>
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezaak" alt="mezaak" /></a> </p>](url)
+[<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezaak" alt="mezaak" /></a> </p>](url)
 
 <div align="center">
+<hr>
     
  🧠 I'm currently working on **Node.JS**
 
@@ -19,7 +20,7 @@
  💬 Ask me about **Analytical Thinking**
 
 </div>
-<br>
+
 <br>
 
 <h3 align="center">Connect with me:</h3>
