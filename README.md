@@ -6,7 +6,7 @@
 
 <h3 align="center">A Front-End Developer from Turkey</h3>
 
-[<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mezaak" alt="mezaak" /></a> </p>](url)
+[<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mezaak" alt="mezaak" /> </p>](url)
 
 <div align="center">
 <hr>
