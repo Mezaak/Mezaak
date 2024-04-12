@@ -11,9 +11,9 @@
 <div align="center">
 <hr>
     
- 🧠 I'm currently working on **Node.JS**
+ 🧠 I'm currently working on **React.JS**
 
-🌱 I’m currently learning **Tailwind**
+🌱 I’m currently learning **Python**
 
  👨‍💻 All of my projects are available at here
 
