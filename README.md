@@ -8,21 +8,31 @@
 
 [<p align="center">![](https://github-profile-trophy.vercel.app/?username=Mezaak&theme=discord&no-frame=true&no-bg=false&margin-w=4)</p>](url)
 
+
+
 <div align="center">
-<hr>
+    <hr style="width: 80%; border: 1px solid #4ca1af;">
     
- 🧠 I'm currently working on **C#,ASP.NET MVC CORE**
+   <h3 style="font-size: 22px;">🧠 I'm currently working on 
+       <span>C#, ASP.NET MVC CORE</span>
+   </h3>
 
-🌱 I’m currently learning **Linux**
+   <h3 style="font-size: 20px;">🌱 I’m currently learning 
+       <span>Linux</span>
+   </h3>
 
- 👨‍💻 All of my projects are available at here
+   <h3 style="font-size: 20px;">👨‍💻 All of my projects are available 
+       here
+   </h3>
 
- 💬 Ask me about **Analytical Thinking**
-
+   <h3 style="font-size: 20px;">💬 Ask me about 
+       <span>Analytical Thinking</span>
+   </h3>
 </div>
 
 
-<h2 align="center">Connect with me :</h2>
+<hr>
+<h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://linkedin.com/in/boran-akkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boran akkaya" height="30" width="40" /></a>
 </p>
@@ -43,6 +53,7 @@
 <hr>
 <h2 align="center">💫 Activity On GitHub 💫</h2>
 
+
 <p align="center">
   <a href="https://github.com/Mezaak">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mezaak&theme=dark&hide_border=true&stroke=f53b3b"/>
@@ -57,6 +68,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mezaak/Mezaak/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <br/><br/><br/>
 </div>
