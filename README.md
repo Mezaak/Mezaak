@@ -11,9 +11,9 @@
 <div align="center">
 <hr>
     
- 🧠 I'm currently working on **React.JS**
+ 🧠 I'm currently working on **C#,ASP.NET MVC CORE**
 
-🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Linux**
 
  👨‍💻 All of my projects are available at here
 
@@ -21,9 +21,8 @@
 
 </div>
 
-<br>
 
-<h3 align="center">Connect with me :</h3>
+<h2 align="center">Connect with me :</h2>
 <p align="center">
 <a href="https://linkedin.com/in/boran-akkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boran akkaya" height="30" width="40" /></a>
 </p>
@@ -33,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
 <p> <a href="https://github.com/Mezaak"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,yarn,vite,html,css,js,express,nodejs,tailwind"> </a> </p>
-    <p> <a href="https://github.com/Mezaak"><img src="https://skillicons.dev/icons?i=,bootstrap,ps,react,mongodb,ts,"> </a> </p>
+    <p> <a href="https://github.com/Mezaak"><img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,bootstrap,ps,react,mongodb,ts,"> </a> </p>
 </div>   
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
